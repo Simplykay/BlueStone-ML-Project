@@ -1,0 +1,16 @@
+# Data
+Data/*
+!Data/deployment_ready/
+
+# Notebooks
+.ipynb_checkpoints/
+**/ .ipynb_checkpoints/
+
+# MLflow
+mlruns/
+**/mlruns/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
